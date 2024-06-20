@@ -1,0 +1,18 @@
+Tuesday, June 18, 2024 10:24:25 AM  LMenu  63854303065153 ms
+Tuesday, June 18, 2024 10:25:13 AM  LMenu  20040.1844 ms
+Tuesday, June 18, 2024 10:25:13 AM  LMenu  20058.8351 ms
+Tuesday, June 18, 2024 10:25:13 AM  LMenu  20062.8734 ms
+Thursday, June 20, 2024 11:12:01 AM | TCORE\DavisBr | Key Released | LMenu | 436.0952 ms
+Thursday, June 20, 2024 11:12:25 AM | TCORE\DavisBr | Shutdown Triggered | LMenu | 20028.0661 ms
+Thursday, June 20, 2024 11:12:26 AM | TCORE\DavisBr | Key Released | LMenu | 20828.2978 ms
+Thursday, June 20, 2024 11:12:38 AM | TCORE\DavisBr | Key Released | LMenu | 540.5639 ms
+Thursday, June 20, 2024 11:16:31 AM | TCORE\DavisBr | Key Released | LMenu | 542.487 ms
+Thursday, June 20, 2024 11:16:33 AM | TCORE\DavisBr | Key Released | LMenu | 538.4882 ms
+Thursday, June 20, 2024 11:16:35 AM | TCORE\DavisBr | Key Released | LMenu | 755.6217 ms
+Thursday, June 20, 2024 11:16:36 AM | TCORE\DavisBr | Key Released | LMenu | 751.881 ms
+Thursday, June 20, 2024 11:16:38 AM | TCORE\DavisBr | Key Released | LMenu | 651.0742 ms
+Thursday, June 20, 2024 11:16:40 AM | TCORE\DavisBr | Key Released | LMenu | 754.3127 ms
+Thursday, June 20, 2024 11:16:41 AM | TCORE\DavisBr | Key Released | LMenu | 758.0511 ms
+Thursday, June 20, 2024 11:17:17 AM | TCORE\DavisBr | Shutdown Triggered | LMenu | 20044.7767 ms
+Thursday, June 20, 2024 11:17:17 AM | TCORE\DavisBr | Shutdown Triggered | LMenu | 20044.7767 ms
+Thursday, June 20, 2024 11:17:18 AM | TCORE\DavisBr | Key Released | LMenu | 20646.5463 ms

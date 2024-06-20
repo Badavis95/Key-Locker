@@ -1,0 +1,16 @@
+Tuesday, May 28, 2024 1:44:17 PM  Back  11232.9703 
+43 
+Tuesday, May 28, 2024 1:45:17 PM  I  10028.2854 
+Tuesday, May 28, 2024 1:47:15 PM  N  94143.847 
+Tuesday, May 28, 2024 1:48:01 PM  N  10927.8775 
+Tuesday, May 28, 2024 3:33:47 PM  P  10010.2367 
+Tuesday, May 28, 2024 3:34:10 PM  U  10011.5371 
+Tuesday, May 28, 2024 3:34:30 PM  X  10023.4484 
+Tuesday, May 28, 2024 3:35:25 PM  N  54588.8444 
+Tuesday, May 28, 2024 3:35:36 PM  Q  10003.5596 
+Tuesday, May 28, 2024 3:36:12 PM  W  10004.8566 
+Tuesday, May 28, 2024 3:36:35 PM  T  10003.0704 
+Tuesday, May 28, 2024 3:36:58 PM  C  10013.1248 
+Tuesday, May 28, 2024 3:37:13 PM  F  10014.2868 
+Tuesday, May 28, 2024 3:37:34 PM  N  10016.6485 
+Tuesday, May 28, 2024 3:37:59 PM  C  10002.3179 

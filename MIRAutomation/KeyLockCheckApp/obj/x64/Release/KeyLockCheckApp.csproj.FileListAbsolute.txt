@@ -1,0 +1,10 @@
+C:\Users\DavisBr\OneDrive - tcore.onmicrosoft.com\Desktop\MIRAutomation\KeyLockCheckApp\bin\x64\Release\KeyLockCheckApp.exe.config
+C:\Users\DavisBr\OneDrive - tcore.onmicrosoft.com\Desktop\MIRAutomation\KeyLockCheckApp\bin\x64\Release\KeyLockCheckApp.exe
+C:\Users\DavisBr\OneDrive - tcore.onmicrosoft.com\Desktop\MIRAutomation\KeyLockCheckApp\bin\x64\Release\KeyLockCheckApp.pdb
+C:\Users\DavisBr\OneDrive - tcore.onmicrosoft.com\Desktop\MIRAutomation\KeyLockCheckApp\obj\x64\Release\KeyLockCheckApp.csproj.AssemblyReference.cache
+C:\Users\DavisBr\OneDrive - tcore.onmicrosoft.com\Desktop\MIRAutomation\KeyLockCheckApp\obj\x64\Release\KeyLockCheckApp.KeyLockCheckWindow.resources
+C:\Users\DavisBr\OneDrive - tcore.onmicrosoft.com\Desktop\MIRAutomation\KeyLockCheckApp\obj\x64\Release\KeyLockCheckApp.Properties.Resources.resources
+C:\Users\DavisBr\OneDrive - tcore.onmicrosoft.com\Desktop\MIRAutomation\KeyLockCheckApp\obj\x64\Release\KeyLockCheckApp.csproj.GenerateResource.cache
+C:\Users\DavisBr\OneDrive - tcore.onmicrosoft.com\Desktop\MIRAutomation\KeyLockCheckApp\obj\x64\Release\KeyLockCheckApp.csproj.CoreCompileInputs.cache
+C:\Users\DavisBr\OneDrive - tcore.onmicrosoft.com\Desktop\MIRAutomation\KeyLockCheckApp\obj\x64\Release\KeyLockCheckApp.exe
+C:\Users\DavisBr\OneDrive - tcore.onmicrosoft.com\Desktop\MIRAutomation\KeyLockCheckApp\obj\x64\Release\KeyLockCheckApp.pdb

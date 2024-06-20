@@ -1,0 +1,21 @@
+Thursday, June 13, 2024 3:34:57 PM  A  37031.4928 
+Thursday, June 13, 2024 4:17:15 PM  A  20012.2734 ms
+Thursday, June 13, 2024 4:17:15 PM  A  20235.4045 ms
+Thursday, June 13, 2024 4:17:15 PM  A  20263.3998 ms
+Thursday, June 13, 2024 4:17:15 PM  A  20287.3946 ms
+Thursday, June 13, 2024 4:17:15 PM  A  20308.4084 ms
+Thursday, June 13, 2024 4:17:15 PM  A  20323.9254 ms
+Thursday, June 13, 2024 4:17:15 PM  A  20344.9293 ms
+Thursday, June 13, 2024 4:17:15 PM  A  20371.9243 ms
+Thursday, June 13, 2024 4:17:15 PM  A  20417.9611 ms
+Thursday, June 13, 2024 4:17:15 PM  A  20450.9253 ms
+Thursday, June 13, 2024 4:17:15 PM  A  20489.9334 ms
+Thursday, June 13, 2024 4:17:15 PM  A  20526.6679 ms
+Thursday, June 13, 2024 4:17:15 PM  A  20562.8428 ms
+Thursday, June 13, 2024 4:17:15 PM  A  20577.6728 ms
+Thursday, June 13, 2024 4:17:15 PM  A  20598.7291 ms
+Thursday, June 13, 2024 4:36:40 PM  RShiftKey  63853893400031.2 ms
+Thursday, June 13, 2024 4:37:13 PM  RShiftKey  33279.5023 ms
+Thursday, June 13, 2024 4:37:46 PM  C  32679.258 ms
+Thursday, June 13, 2024 4:38:08 PM  I  22549.6535 ms
+Friday, June 14, 2024 2:01:53 PM  LMenu  20006.5732 ms
